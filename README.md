@@ -1,16 +1,16 @@
-<h1 align="center">Sup I'm M1chael Jackson</h1>
+<h1 align="center">Sup I'm Kona Code</h1>
 <h3 align="center">Founder of NightVoid Entertainment</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1chaeljackson&label=Profile%20views&color=0e75b6&style=flat" alt="m1chaeljackson" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kona-code&label=Profile%20views&color=0e75b6&style=flat" alt="kona-code" /> </p>
 
-- I’m currently developing [NightVoid Entertainment](https://nightvoid.com/)
+- I’m developing [NightVoid Entertainment](https://nightvoid.com/)
 
 - I’m learning **C/C++**
 
 
 Contact me:
-- Discord username: **m1chaeljackson**
-- Email: **mj@nightvoid.com**
+- Discord username: **konacode**
+- Email: **kona@nightvoid.com**
 
 - All of my projects are available at [https://software.nightvoid.com/](https://software.nightvoid.com/)
 
