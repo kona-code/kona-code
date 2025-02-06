@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kona-code&label=Profile%20views&color=0e75b6&style=flat" alt="kona-code" /> </p>
 
-- I’m developing [NightVoid Entertainment](https://nightvoid.com/)
+- Currently developing [NightVoid Entertainment](https://nightvoid.com/)
 
-- I’m learning **C/C++**
+- Learning **C/C++**
 
 
 Contact me:
