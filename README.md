@@ -5,7 +5,7 @@
 
 - Currently developing [NightVoid Entertainment](https://nightvoid.com/)
 
-- Learning **C/C++**
+- Learning **Advanced C/C++**
 
 
 Contact me:
