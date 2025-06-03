@@ -1,5 +1,5 @@
-<h1 align="center">Sup I'm Kona Code</h1>
-<h3 align="center">Founder of NightVoid Entertainment</h3>
+<h1 align="center">Sup I'm kona</h1>
+<h3 align="center">The Founder of NightVoid Entertainment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kona-code&label=Profile%20views&color=0e75b6&style=flat" alt="kona-code" /> </p>
 
